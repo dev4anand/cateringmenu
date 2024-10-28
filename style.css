@@ -79,59 +79,6 @@ li {
 
 /* footer */
 
-
-
-/* footer {
-    background-color: #ffe0b2;
-    color: #fff;
-    padding: 20px;
-    margin-top: 30px;
-}
-footer .container {
-    
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.footer-content h4 {
-    justify-content: center;
-    padding-left: 30%;
-    margin-top: 0;
-    color: #494949;
-}
-.footer-content h5 {
-    padding-left: 46%;
-    margin-top: 0;
-    color: #494949;
-    justify-content: center;
-}
-.footer-content .phone a {
-    padding-left: 40%;
-    justify-content: center;
-    color: #494949;
-    text-decoration: none;
-}
-
-.footer-content .mail a {
-    padding-left: 30%;
-    justify-content: center;
-    color: #494949;
-    text-decoration: none;
-}
-.footer-content a:hover {
-    color: #000000
-}
-.footer-content .phone {
-    margin-right: 5px;
-}
-.copyright {
-    display: block;
-    text-align: center;
-    color: #494949;
-    margin-top: 20px;
-} */
-
 footer {
     background-color: #ffe0b2;
     color: #494949;
