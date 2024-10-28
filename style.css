@@ -15,7 +15,8 @@ body {
 
 h1 {
     text-align: center;
-    color: #d84315;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px#000000;
     font-size: 2.5em;
 }
 
@@ -80,7 +81,7 @@ li {
 
 
 
-footer {
+/* footer {
     background-color: #ffe0b2;
     color: #fff;
     padding: 20px;
@@ -124,13 +125,57 @@ footer .container {
 .footer-content .phone {
     margin-right: 5px;
 }
+.copyright {
+    display: block;
+    text-align: center;
+    color: #494949;
+    margin-top: 20px;
+} */
 
-/* .mail a{
-    padding-left: 30%;
+footer {
+    background-color: #ffe0b2;
+    color: #494949;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+footer .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
+    text-align: center;
+}
+
+.footer-content {
+    margin: 10px 0;
+}
+
+.footer-content h4, .footer-content h5 {
+    margin: 5px 0;
+    color: #494949;
+}
+
+.footer-content .phone, .footer-content .mail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.footer-content .phone a, .footer-content .mail a {
     color: #494949;
     text-decoration: none;
-} */
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.footer-content a:hover {
+    color: #000000;
+}
+
 .copyright {
     display: block;
     text-align: center;
