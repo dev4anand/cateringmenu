@@ -11,7 +11,7 @@ body {
     color:#ffffff;
     background-image: url('foodbg1.jpg');
     margin: 0;
-    padding: 0px;
+    padding: 20px;
 }
 
 h1 {
@@ -46,6 +46,7 @@ li {
     padding: 5px 0;
     /* font-size: 1.2em; */
     font-size: 1.1em;
+    color: #000000;
     /* font-family: Lora, serif; */
 }
 
