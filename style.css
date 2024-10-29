@@ -9,9 +9,9 @@ body {
 .content {
     background-color: #fff3e0;
     color:#ffffff;
-    background-image: url('food-cooking-background-ingredients-preparation-vegan-dishes-vegetables-roots-spices-mushrooms-herbs-cutting-board-healthy-food-concept-rustic-wooden-table-top-view_630207-6042.jpg');
+    /* background-image: url('food-cooking-background-ingredients-preparation-vegan-dishes-vegetables-roots-spices-mushrooms-herbs-cutting-board-healthy-food-concept-rustic-wooden-table-top-view_630207-6042.jpg');*/
     margin: 0;
-    padding: 0px;
+    padding: 20px;
 }
 
 h1 {
