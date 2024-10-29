@@ -1,6 +1,6 @@
 body {
     font-family: Poppins, sans-serif;
-    background-color: #fff3e0;
+    background-color: #ffffff;
     color: #4e342e;
     margin: 0;
     padding: 0; 
@@ -66,8 +66,8 @@ li {
     background-image: url('catteringbg.jpeg');
     padding-top: 25px;
     padding-bottom: 25px;
-}
-
+} 
+/*
 .copyright {
     color: #4e342e;
     text-decoration: none;
@@ -77,13 +77,13 @@ li {
     text-align: center;
     margin-top: 16px;
     padding-bottom: 20px;
-}
+} */
 
 
 /* footer */
 
 footer {
-    background-color: #ffe0b2;
+    background-color: #ffffff;
     color: #494949;
     padding: 20px;
     margin-top: 30px;
